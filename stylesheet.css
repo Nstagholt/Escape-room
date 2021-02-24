@@ -5,9 +5,17 @@ body {
 h1 {
     color: red;
     text-align: center;
+    font-size: 100px;
 }
 
 p {
     color: red;
     text-align: center;
+    font-size: 70px;
+}
+
+.inputtalrække {
+    text-align: center;
+    color: red;
+
 }
